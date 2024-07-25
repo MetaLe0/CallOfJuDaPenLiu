@@ -1,0 +1,17 @@
+{
+    "name" : "叠放召唤巨大喷流",
+    "author" : "MetaLeo",
+    "namespace" : "CallOfJuDaPenLiu",
+    "message_mode" : "olivos_string",
+    "version" : "1.0.0",
+    "svn" : 1,
+    "compatible_svn" : 95,
+    "priority" : 40000,
+    "support" : [
+        {
+            "sdk" : "all",
+            "platform" : "all",
+            "model" : "all"
+        }
+    ]
+}
